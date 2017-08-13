@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="sample_news_title">Theresa May rules out participating in TV debates before election</string>
+    <string name="saple_news_section">Politics</string>
+    <string name="sample_news_date">2017-04-18</string>
+    <string name="title_activity_settings_activity">settings_activity</string>
+    <string name="settings">settings</string>
+
+    <string name="pref_sort_default_value" translatable="false">newest</string>
+    <string name="list_preference_key">sorting_list_preference</string>
+
+    <string name="pref_edit_default_value" translatable="false">Politics</string>
+    <string name="edit_preference_key">search_edit_preference</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="no_news">No news for given search</string>
+    <string name="author_name">Walter White</string>
+</resources>
